@@ -1,0 +1,11 @@
+today i learned about "[mastery learning](https://en.wikipedia.org/wiki/Mastery_learning)" - basically, a process where students study a concept until they can pass test showing 90% proficiency, then they move onto the next concept. not only that, but it appears to be empirically validated. from wikipedia:
+> Mastery Learning has been one of the most highly investigated teaching methods over the past 50 years. While it has been the subject of high criticism, it has also been found to have resounding success when implemented correctly.[34] A meta-analysis by Guskey & Pigott (1988)[35] looked at 46 studies that implemented group-based mastery learning classrooms. Results found consistently positive effects for a number of variables including "student achievement, retention of learned material, involvement in learning activities, and student affect".[35] However, a notable variation was found within student achievement and it was believed this was due mainly to the subject being taught. Courses such as science, probability, and social studies yielded the most consistent positive results, while other subjects were varied.[35]
+if this is true, *why hasn't mastery learning been more broadly rolled out?*
+
+sometimes i think the world is complex, [science is getting more expensive](https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/), and each marginal gain for humanity will become more challenging. other times, i stumble across something like mastery learning and feel like the world has plenty of high-impact, sparsely implemented ideas just waiting for someone to execute on them.
+
+why do these good ideas not get immediate adoption?
+
+unfortunately, i don't have an answer. but in an era where scientific progress seems to be getting more expensive and difficult, it might make a lot of sense to refocus on areas where there might be an easier win. where the barrier to progress is institutional, not scientific.
+
+that said, if anyone has ideas on ways to find more ideas like mastery learning, or if you're working to implement something along those lines, get in touch. i'd love to chat.

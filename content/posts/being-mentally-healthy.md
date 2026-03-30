@@ -1,0 +1,17 @@
+For two years now I've been drawn to starting companies. From my perspective it looks like there are few better ways you can have an impact on the world. Success (seemingly) requires hard work and smarts, less so connections and political savvy (though they help). Media, politics, large corporations all have billions of dollars of entrenched interests to keep the top dogs where they are. Startups less so.
+
+Though there are good reasons to do do them, I've come to appreciate just how difficult the mental side of startups is. The experience of starting a company is the hardest thing I’ve done so far. There’s not much that can compare with the ups and downs, the emotional attachment you have to doing something that hasn’t been done before. And I’m not even tackling a problem like sending [rockets](http://www.spacex.com/) into space, or changing [payments](http://stripe.com) on the web.
+
+After meeting a lot of people in the space, I think that it is almost more important from a career standpoint than anything else. You can’t do well if you’re constantly focusing on negatives, if you have difficulty finding happiness in your day-to-day, and if you’re not in a good place emotionally. This stuff is hard, and being miserable throughout the process is a sure way to get out of startups altogether. I know too many talented, ambitious people who don’t have the mental makeup to stay involved in the game.
+
+Gabe talks about this a bit with his [Startup Career Path](http://www.gabrielweinberg.com/blog/2010/11/are-you-in-a-startup-career-path-or-are-you-one-and-done.html) post, but I hear a lot of people talking about startups as if they are a one-shot deal. As if their current thing doesn’t work, they leave the game. Even if you don't get out altogether, being miserable while being in startups is hard. It sucks, and it makes people less effective and productive, to posts like [this](http://jfornear.co/the-real-silicon-valley/).
+
+The more people who can be happy and start companies, the better. If humanity is going to advance more quickly, we want more smart people starting companies to solve real problems. This means we need more people who can mentally cope with the ups and downs of striking out on their own. This is valuable even for those that fail, as starting a company leads to drastically accelerated learning.
+
+There's still a lot for me to figure out, but I'm starting to believe that personal development and growth should be a focus before (and during) the process of starting a company. Getting your head right should be as important as anything else. After all, if you succeed at the cost of being a happy, healthy, real human, I'm not sure that's a positive. This is why I'm working *hard* to do things like the [Daily Practice](http://www.jamesaltucher.com/2011/02/how-to-be-the-luckiest-guy-on-the-planet-in-4-easy-steps/). To focus on the good things in life and try to take a [long-term](http://justinmares.com/working-for-the-long-term/) view of things.
+
+There are so many things I want to improve: my writing, strategic thinking, productivity, health... things most people struggle with. What I don't want to deal with is a life of work that makes me miserable and unhappy. And too many times I worry that's where I'm headed.
+
+ 
+
+*Thanks to Nate Speller for reading drafts of this. I'd love to hear what you think of this type of post vs more marketing-related posts. Thoughts?*

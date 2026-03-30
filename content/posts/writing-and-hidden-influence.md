@@ -1,0 +1,19 @@
+I recently found out that an executive at a major big data corporation reads my blog. He emailed me to comment on something he learned from one of my posts. #humblebrag.
+
+It's crazy to think about: if I sat down and had lunch with this person, I'd feel every bit his junior. There are 1000 things I could learn from him, and *maybe *20-30 he could learn from me. Instead, online, my thoughts are the ones he's paying attention to, simply by virtue of hitting "publish".
+
+Another funny thing came from [this article](http://insideintercom.io/four-pricing-principals-to-never-forget/). Here's the money quote:
+> It’s generally accepted that **you can’t grow a software business charging [only $5 per month](http://justinmares.com/why-real-businesses-dont-charge-5month/)**, so the chief argument in favour of the bottom tier is always that “these guys will move up through the plans”.
+The whole article is well worth reading, but I found it hilarious that something I wrote in my boxers at 1am became "generally accepted" pricing wisdom. You're welcome, world.
+
+Writing has a weird way of attributing that influence to you, even if not necessarily deserved. Countless times I've read blog posts and articles in the past that have shaped my thinking, but can't actually remember who wrote it. In cases like these, the author has *hidden influence*, where they shape the way individuals think about things but don't necessarily receive credit. More than any other medium right now, publishing online can give you this influence.
+
+It's also easier and faster to get than before thanks to the proliferation of social channels. In fact, one of the valuable things about following thought leaders, investors and entrepreneurs on Twitter is because you can see what they read. Who's thinking influences them, and how does it fit into their worldview? For example, I know of 4-5 VCs that read [Ribbonfarm](http://ribbonfarm.com) on a regular basis. Even though Venkat (the guy behind it) is a blogger and a consultant, his thinking and writing still influence the investment theories that control hundreds of millions of investment dollars. That's hidden influence, whether Venkat realizes it or not.
+
+What's valuable is turning this influence into real productivity outside of your writing. Venkat could probably raise a small fund (or an associate position) by leveraging his audience and readership. [Charlie Hoehn](http://charliehoehn.com) could get basically any job he wants, and I have lots of plans for things to do post [Traction Book](http://tractionbook.com) ([email me](http://justinmares.com/contact-me/) if you're curious).
+
+This applies to companies as well. If you're trying to grow your business, shaping the way people think is more valuable than gold. It's the driving force behind multi-billion dollar advertising industry. Savvy companies like Unbounce and Hubspot understand that creating educational content that shapes their customer's thinking is valuable. In fact, it's the main driver behind each company's respective business.
+
+For instance, Unbounce's series of case studies, how-tos and posts about how to improve your online marketing all seed the idea that your marketing strategy should include a healthy dose of custom landing pages. They then show you how to rock awesome landing pages to get more customers. And, once you believe that customizable landing pages are a core part of your traction strategy, Unbounce is the first company you'll buy from.
+
+Right now, this influence is best achieved through writing. I'd consider myself somewhere between readable and average as a writer, but even I've reaped the benefits of having some amount of hidden influence. As attention becomes more and more scarce online, framing the way people think about things becomes more valuable than simply getting them to view your content (though both are valuable). This is something I'm trying to think about in both my career and my writing.

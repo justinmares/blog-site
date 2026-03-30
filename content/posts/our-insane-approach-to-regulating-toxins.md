@@ -1,0 +1,51 @@
+This month, we’re back with another deep dive into the world of health, toxins, toxin regulation, and our wonderfully dysfunctional regulatory system. Let’s talk about exactly *how* we determine "safe" toxin exposure levels (ie the EPA’s [297 parts-per-billion (ppb) exposure limit](https://web.archive.org/web/20240319031741/https://www.nytimes.com/2009/08/23/us/23water.html) for Atrazine). 
+
+Let's start with a mind-bending fact: there are 40,000+ chemicals allowed in our food, our water, our household products, and our environment that have never undergone any sort of official safety study or testing. 40,000+ potential toxins hanging out in your cereal, your tap water, and even your underwear. We're living in a giant, uncontrolled science experiment – and we're the lab rats.
+
+But surely, you might think, there must be some method to this madness. Some rigorous scientific process for determining what's safe and what's not. You sweet summer child, you must be new here. Let’s dig into how chemical regulations work in the land of the free and the home of the "probably won't kill you immediately". 
+
+The process, roughly, goes like this:
+
+- A chemical company invents a new compound that makes your eggs not stick to the pan.- FDA says, "Cool, cool. Any reason to think this might be harmful?"- Chemical company says, "Nope, definitely not! We ran our own tests, but we’d prefer not to share the results. We’re going to go ahead and put this on the market as per the [1976 Toxic Substances Control Act](https://sph.umich.edu/news/2021posts/toxic-substances-control-act-chemical-regulation.html#:~:text=The%20Toxic%20Substances%20Control%20Act%20of%201976%20governed%20chemicals%20in,accessed%20the%20lucrative%20U.S.%20market.)”. - *The agencies high-five as toxic compound PFOA-C8 hits the market*
+
+You may think I’m joking, but this is almost literally [the story of what happened with Dupont and Teflon](https://www.nytimes.com/2016/01/10/magazine/the-lawyer-who-became-duponts-worst-nightmare.html). Though with Teflon, there was also the added detail of Dupont’s internal testing showing Teflon was giving employees cancer and their children birth defects… which they then buried, and sued anyone who questioned Teflon’s safety. This went on for 40 years until they paid a settlement. The whole story is so disturbing they made an exceptional movie about it ([Dark Waters](https://en.wikipedia.org/wiki/Dark_Waters_(2019_film))*). *
+
+[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffecdfd36-90b1-4f30-b7f3-e30318ccd72c_1738x392.png)
+
+That’s how industry regulates chemicals in the US today: by relying on industry to run their own tests and make their own assertions that the novel, never-before-seen chemicals they’re inventing and putting in our products are safe and sound. 
+
+When a pharma company invents a drug that humans take, tit goes through a rigorous FDA approval process that takes a decade and is tested for safety. When a chemical company invents a compound that your body can’t break down and ends up in the food, the water supply, and our bodies, regulators require… nearly nothing. How does this make sense? 
+
+But for the chemicals we *have *done safety testing for - the thousands that we know are toxic, but where the dose makes the poison - how are exposure limits determined? 
+
+To determine exposure limits, scientists follow a relatively simple process. First, they’ll find an animal - often a rat - and expose that rat to small amounts of said chemical. They’ll then sit and watch for behavioral abnormalities. 
+
+They then continue to increase the dosing of the suspected toxin until they observe behavioral changes in the rat. At that point, they take the dose they exposed the rat to, multiply it by a “safety factor” (usually 100) to account for the difference in weight between rat and human. And… that’s it. Anything below that dose number that’s spit out is now *safe! 
+
+**according to our regulators, your experience may vary. *
+
+This approach is absolutely insane. Let’s count some of the downsides of this approach: 
+
+- **Ignores long-term effects** - This approach is fine and dandy for compounds that have an immediate, sudden response (like a compound that might create an allergic reaction). But for compounds that increase the likelihood of cancer, or of autoimmune conditions over a longer time horizon? This testing approach will miss many conditions that develop over years.
+- **Bioaccumulation - **Some compounds (like many PFAS) bioaccumulate, meaning the body doesn’t really clear them. And so as you increase your exposure, these compounds accumulate at higher and higher doses. For a compound that bioaccumulates, it’s quite possible that over a lifetime of exposure, one would receive a dose many times that of the dose considered “safe”.
+- **Misses subjective experience - **With this approach, it’s impossible to know how a rat “feels” at various doses of a toxin. The dose will be determined by the lowest level at which behavior change is observed. Yet if a compound causes a rat to have a headache, feel sluggish, feel depressed, or negatively impacts the subjective experience of our poor rat in any other way… sorry! That won’t make its way into guidelines around toxin dosing.
+No humans would want to expose themselves to small amounts of a compound that will make them depressed and anxious. Yet, under today’s testing approach, it’s quite possible that we are missing a whole litany of more subtle, subjective harms caused by pesticides and other toxins.
+- **Out-of-date protocols** - All toxicity tests conducted by industry for regulatory purposes are based on “the dose makes the poison”: the higher the dose, the greater the degree of toxicity. However, in some cases, low doses corresponding to human exposures can be more toxic than the higher doses tested on laboratory animals ([1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3365860/)). This is especially true for chemicals that disrupt the hormonal system (ie endocrine disruptors). Safe levels of these chemicals cannot be extrapolated from effects at higher doses.
+- **Exposure timing** - This toxicity testing approach completely misses negative impacts that could arise from exposure at key moments of development (like fetal development, puberty, etc). A dose that a healthy adult male could handle no problem could absolutely impact the hormone or other systems of a developing teenager, a pregnant mother, or a child.
+- **Combination effects **- Pharmaceuticals have side effects, which is why you’re not supposed to drink alcohol while on antibiotics (among millions of other things). Well, just like pharmaceuticals, these chemical compounds can have a whole host of other interactions. It’s quite feasible that some (many?) of these interactions between X novel-chemical-humans-have-never-been-exposed-to and Y novel-chemical-humans-have-never-been-exposed-to could have deleterious effects! 
+
+Let’s talk more about this combination effect, as it’s a tricky one. With viruses and other infectious pathogens, the model is simple: we know how a virus causes disease, we generally know the parts of the virus, and we have tools to manage that pathology. The world of toxicant-based disease is much, much less clear. 
+
+Some of the challenges here were articulated in the [A Chemical Hunger](https://slimemoldtimemold.com/2021/07/17/a-chemical-hunger-part-iv-criteria/) series on SlimeMoldTimeMold.com. They write: 
+
+*Another good example is [malathion](https://en.wikipedia.org/wiki/Malathion), an insecticide that at the time was commonly used by gardeners. Malathion is extremely deadly to insects but is “safe” for mammals, including humans. But malathion is only “safe” because the mammalian liver detoxifies it with an enzyme, rendering it harmless. “If, however, something destroys this enzyme or interferes with its action,” we are warned, “the person exposed to malathion receives the full force of the poison. Unfortunately for all of us, opportunities for this sort of thing to happen are legion.”*
+
+The SlimeMoldTimeMold authors further cite a paper that showed that the toxicity of malathion can increase by ~60x if it is converted into malaoxon, which can happen in the presence of chlorine [(2)](https://paperpile.com/c/WQKUTL/cHEY). With billions (literally) of possibilities like this, how could we possibly understand that a given new compound is safe? 
+
+Well, we pretty much can’t. That’s why the EU  takes what Taleb would call a “do no harm” approach: they assume that these entirely new chemicals, literally unknown in nature, may cause harm. And so, they regulate them! The EU currently bans 1300+ chemicals and compounds that the US allows, and takes a “whitelist” approach: a chemical must be proven safe before it’s allowed in the EU. 
+
+The FDA, on the other hand, takes the opposite approach, Sure humans have never before been exposed to these classes of chemicals, but whatever - let’s assume they’re safe! Between this and the 50 years it took the FDA to act on [the whole trans fats thing](https://justinmares.com/why-im-ignoring-the-nutrition-experts/) (and then, only after multiple lawsuits were brought against them), it’s no wonder Americans are some of the most poisoned people on the planet. 
+
+And let's not forget the role of industry in all this. Remember how Big Tobacco convinced us for decades that cigarettes were totally fine? Well, the chemical industry took notes. They're funding studies, winning and dining regulators, and generally doing their best to keep the toxic gravy train rolling (I really recommend watching *Dark Waters*). After all, these chemical compounds do have benefits, they are productive, and (often) cheaper to make than using more natural materials. 
+
+So, the next time someone tells you that the FDA has determined something is "safe," remember: they also thought trans fats were just dandy for about 50 years (which [I wrote about here](https://justinmares.com/why-im-ignoring-the-nutrition-experts/)). Sometimes, a little skepticism is the healthiest thing you can consume.

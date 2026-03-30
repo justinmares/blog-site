@@ -1,0 +1,3 @@
+*A man who follows someone else not only does not find anything, he is not even looking. ‘But surely you are going to walk in your predecessors footsteps?’ Yes indeed, I shall use the old road, but if I find a shorter and easier one I shall open it up. The men who pioneered the old routes are leaders, not our masters. Truth lies open to everyone.   - *Seneca, Letters from a Stoic
+
+This quote has been on my mind lately. I'm at a point where I have several interesting choices for my next move, and am working to figure things out. I'm going to try and choose my own path and find what makes me happiest. Amazing how some of the best advice can come from someone who lived over 1600 years ago.

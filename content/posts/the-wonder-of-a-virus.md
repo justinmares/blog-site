@@ -1,0 +1,5 @@
+[](http://www.flickr.com/photos/simon-crubellier/199030512/)
+
+Today I had one of those "WOW" moments where I am just amazed at what talented people can accomplish. I read this [article](http://news.yahoo.com/s/csm/20100921/ts_csm/327178) on Yahoo today and was blown away that something like that could be created. As someone new to the world of computer programming, and currently teaching myself Ruby on Rails, I cannot even fathom how something like that would work. As a beginner, I could not even figure out the issues with Diaspora's code they released earlier this week. Guess I won't be building a social network anytime soon.
+
+For many people, I believe there is truly almost no limit to what they can achieve. Although Stuxnet, most would argue, is not a good thing for the world, it is still astonishing that such a program/virus can be created.  Although I could not create something like this, seeing this done makes me think of the many people I know who do not make full use of their potential. I can only hope that I am making the most of mine.
