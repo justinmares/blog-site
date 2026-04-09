@@ -183,12 +183,12 @@ I also found another way to treat wastewater, that simply requires somewhat larg
 So, that’s it! Those are my thoughts on potential solutions to the California water crisis. To recap, the options I’ve proposed are:
 
 
-	- Raise the price of water (done, not effective at reducing usage).
-	- Level individual water restrictions (inconvenient, but solving the lawn watering problem with new strains of grass could make a big difference).
-	- Install solar stills (could work).
-	- Set up reverse osmosis desalination plants (really, really expensive, but would work).
-	- Subsidize or stop growing alfalfa (solves 90%+ of the water shortage, but likely hard to coordinate).
-	- Recycle and reuse wastewater (could solve most of the shortage problem and have long-term benefits, but a bit expensive and would require government or industry investment in wastewater treatment)
+- Raise the price of water (done, not effective at reducing usage).
+- Level individual water restrictions (inconvenient, but solving the lawn watering problem with new strains of grass could make a big difference).
+- Install solar stills (could work).
+- Set up reverse osmosis desalination plants (really, really expensive, but would work).
+- Subsidize or stop growing alfalfa (solves 90%+ of the water shortage, but likely hard to coordinate).
+- Recycle and reuse wastewater (could solve most of the shortage problem and have long-term benefits, but a bit expensive and would require government or industry investment in wastewater treatment)
 
 
 If you’re a citizen of California, what options do you think are most promising? Do you have any ideas you think I’m missing?

@@ -19,9 +19,9 @@ This focus on improving one thing is highly underrated, and it's allowed them to
 
 I'm now working on building a bunch of new habits (implementing a protocol to boost my testosterone, testing a nootropics regimen for the first time) and am working to keep this focused approach in mind. Ultimately, I think the best way to rapidly improve is to do the following:
 
-	- focus on one area you want to improve
-	- get to a point you're happy with
-	- create habits that ensure continued improvement in that area
-	- Repeat in a new area you want to improve
+- focus on one area you want to improve
+- get to a point you're happy with
+- create habits that ensure continued improvement in that area
+- Repeat in a new area you want to improve
 
 Paradoxically, the fastest way to improve is to not improve in most areas of your life. Do this and you'll quickly find yourself becoming more of the person you want to become.

@@ -4,12 +4,12 @@ I recently finished Daniel Pink's book [Drive](http://www.amazon.com/Drive-Surpr
 
 After reading about mastery and deliberate practice, I thought a great deal about what kinds of objectives are worth expending such effort. I want to decide what skills I can master that will serve me best over the course of my lifetime. These are things I want to start deliberately practicing for a few minutes every day. Some things I think would be worth mastering:
 
-	- Writing (including copywriting)
-	- Public speaking
-	- Easily establishing rapport
-	- Reading faces and emotions (for more, see the work of Paul Ekman)
-	- Deeply understanding how people make decisions
-	- Meditation
-	- Critical, insightful thinking with hard problems
+- Writing (including copywriting)
+- Public speaking
+- Easily establishing rapport
+- Reading faces and emotions (for more, see the work of Paul Ekman)
+- Deeply understanding how people make decisions
+- Meditation
+- Critical, insightful thinking with hard problems
 
 For the next few days I will be thinking hard about which skill (or skills) to start working on, and will then work to automate that practice into my daily schedule. I got a lot from Drive, and I think someone in a corporate position would receive even more value from the book.

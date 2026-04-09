@@ -37,31 +37,31 @@ In a lot of ways, this is analogous to Excel. Think of Excel as a massive databa
 
 Some common languages often used for the back-end include:
 
-	- Ruby
-	- Python
-	- PHP
-	- Java (which, confusingly, is totally different than JavaScript)
-	- Perl
-	- ASP.NET
-	- C
-	- C++
-	- Go
-	- Erlang
-	- Javascript (Node.js)
+- Ruby
+- Python
+- PHP
+- Java (which, confusingly, is totally different than JavaScript)
+- Perl
+- ASP.NET
+- C
+- C++
+- Go
+- Erlang
+- Javascript (Node.js)
 
 Each of these languages can accomplish roughly the same thing, though there are tradeoffs in terms of hiring, speed, performance, etc. that I won't get into.
 
 Common types of databases (also called data stores) are:
 
-	- PostgreSQL
-	- MySQL
-	- MongoDB
-	- CouchDB
-	- Redis
-	- Riak
-	- NoSQL
-	- Oracle
-	- Microsoft Access
+- PostgreSQL
+- MySQL
+- MongoDB
+- CouchDB
+- Redis
+- Riak
+- NoSQL
+- Oracle
+- Microsoft Access
 
 Phew. That's a big (and confusing) list. As someone trying to familiarize yourself with tech, you don't need to understand exactly what each of these programming languages or databases do. Instead, you should be able to understand the context in which someone has expertise. For example, if Redis or MongoDB comes up, you should understand that each is a tool used to store data.
 
@@ -73,11 +73,11 @@ That's exactly what using a web framework does. It allows you to build faster by
 
 A complete list of frameworks for each programming language can be found [here](http://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks), but many of the popular ones you'll hear about are below:
 
-	- Python - Django, Pyramid
-	- Ruby - Ruby on Rails, Sinatra
-	- PHP - CakePHP, Zend, Laravel, CodeIgnighter
-	- Java - Grails, Play!
-	- Javascript - jQuery, Backbone.js, Ember.js,
+- Python - Django, Pyramid
+- Ruby - Ruby on Rails, Sinatra
+- PHP - CakePHP, Zend, Laravel, CodeIgnighter
+- Java - Grails, Play!
+- Javascript - jQuery, Backbone.js, Ember.js,
 
 Each of these frameworks come with different software packages, known as libraries, plugins or gems (in the Rails community), that help developers accomplish specific things. For example, here's a list of [Python libraries](http://doda.co/7-python-libraries-you-should-know-about) and the different reasons developers may want to use them.
 
@@ -119,10 +119,10 @@ I've made bad hires because I didn't understand the skill-sets of people I was i
 
 Especially if you want to start a company, learning how technology actually works is imperative. As [this article](http://quibb.com/links/four-traits-of-successful-non-technical-solo-founders) mentions, non-technical founders create successful startups by having these 4 traits:
 
-	- Technically literate
-	- Product oriented
-	- Have cash
-	- Are well-connected
+- Technically literate
+- Product oriented
+- Have cash
+- Are well-connected
 
 As software seeps into every sector of the economy, it's even more important for employees of all kinds to understand tech at a basic level. Your sales, support, marketing and community hires will all be better off if they have a basic understanding of how the web works, and how their software product fits into that landscape.
 

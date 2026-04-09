@@ -77,12 +77,12 @@ We used Instapage for Traction Course and got a landing page up in just over an 
 There are a few key things you want to include on your landing page:
 
 
-	- Big, bold headline with a promise of what a potential subscriber will learn
-	- A form to capture email addresses
-	- 1–2 paragraphs about what the course is and why people should want to sign up. See how I did this with [Programming for Marketers](http://programmingformarketers.com/), and how Noah did the same with [Traffic1M](http://traffic1m.com/)
-	- A table of contents to help entice anyone with last minute hesitations
-	- A paragraph or two about who you are, and why you’re the right person to be teaching this subject
-	- Close with one more email capture field
+- Big, bold headline with a promise of what a potential subscriber will learn
+- A form to capture email addresses
+- 1–2 paragraphs about what the course is and why people should want to sign up. See how I did this with [Programming for Marketers](http://programmingformarketers.com/), and how Noah did the same with [Traffic1M](http://traffic1m.com/)
+- A table of contents to help entice anyone with last minute hesitations
+- A paragraph or two about who you are, and why you’re the right person to be teaching this subject
+- Close with one more email capture field
 
 
 That’s it! With just these 6 elements, you should be able to create a dead simple landing page in just under an hour. Just be sure to connect your email capture fields with whatever email marketing tool you use, and add each subscriber to an email list you have specifically for course subscribers.
@@ -100,9 +100,9 @@ Ouch.
 That said, there are a few ways you can approach the content creation process. You can…
 
 
-	- Write all of the content yourself, like we did for Traction Course
-	- Have others write killer content for you, like Noah did with Traffic1m
-	- Write one of the 7–14 lessons yourself, launch your free email course, see how many people sign up… and then scramble to write the other 6 lessons in 2 days each. This is what we did with Programming for Marketers :)
+- Write all of the content yourself, like we did for Traction Course
+- Have others write killer content for you, like Noah did with Traffic1m
+- Write one of the 7–14 lessons yourself, launch your free email course, see how many people sign up… and then scramble to write the other 6 lessons in 2 days each. This is what we did with Programming for Marketers :)
 
 
 Each of these approaches have their advantages and drawbacks. If you’re unsure whether or not your email course topic is one that’s interesting to a large enough group of people, try method #3 and just test a landing page to a free email course. If enough people sign up to make it worthwhile, then hustle and write the remaining lessons. If not, just shut the course down.

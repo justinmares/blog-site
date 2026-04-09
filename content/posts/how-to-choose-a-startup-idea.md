@@ -30,9 +30,9 @@ I also checked out the [Crunchbase](http://crunchbase.com) for both companies,
 
 Although my idea wasn't really web-driven, when doing competitive research on other web-based companies here are a few other things I look at:
 
-	- [Compete](http://compete.com) to see their traffic data, and which way it's trending
-	- [Quantcast](http://quantcast.com) to get a rough feel for the demographics of their average customer
-	- [AppData](http://appdata.com) (if they have a Facebook or mobile app) to see how engaged their users are
+- [Compete](http://compete.com) to see their traffic data, and which way it's trending
+- [Quantcast](http://quantcast.com) to get a rough feel for the demographics of their average customer
+- [AppData](http://appdata.com) (if they have a Facebook or mobile app) to see how engaged their users are
 
 At the end of this stage, you should know three things: who your biggest competitors are, the basics of their company strategy, and how you are (or will be) different from what they're doing. If you think your approach has more value, time to dive a bit deeper.
 ## Distribution
@@ -58,9 +58,9 @@ This information tells you that Dropbox is doing a good job of driving traffic v
 
 If I thought I could potentially do well with SEO, I'd use the following tools to dig deeper into this channel:
 
-	- [Open Site Explorer](http://www.opensiteexplorer.org/) to see where they get their links from.
-	- Sign up for a free trial of [SEOmoz](http://go.seomoz.org/aff_c?offer_id=1&aff_id=10851 ) to see where the competitors rank for different terms, and determine how hard it would be to rank for certain keywords.
-	- Take the free trial of [HitTail](http://mbsy.co/rwalling/133203) to see if there were potential opportunities to rank for certain longer-tail SEO keywords.
+- [Open Site Explorer](http://www.opensiteexplorer.org/) to see where they get their links from.
+- Sign up for a free trial of [SEOmoz](http://go.seomoz.org/aff_c?offer_id=1&aff_id=10851 ) to see where the competitors rank for different terms, and determine how hard it would be to rank for certain keywords.
+- Take the free trial of [HitTail](http://mbsy.co/rwalling/133203) to see if there were potential opportunities to rank for certain longer-tail SEO keywords.
 
 Lastly, I'd use the [Google Keyword tool](https://adwords.google.com/o/Targeting/Explorer?__c=1000000000&__u=1000000000&ideaRequestType=KEYWORD_IDEAS) to figure out how much it'd cost me to buy search advertising, and see how much my competitors are paying for certain search terms. If it's a lot, I now know that advertising may be a difficult way to acquire customers, and start looking at other channels.
 
@@ -70,19 +70,19 @@ Lastly, you want to know how large your potential market is. This involves a lot
 
 *Who are the major players in the space, and what is their total revenue? What is their market cap (if public)?*
 
-	- Here, use the 10k's of publicly traded companies to research total revenue, profits, expenses, and profitability history. Pay special attention to net income and expenses - where are they spending the most money? Are their profits growing or shrinking? Why?
+- Here, use the 10k's of publicly traded companies to research total revenue, profits, expenses, and profitability history. Pay special attention to net income and expenses - where are they spending the most money? Are their profits growing or shrinking? Why?
 
 *What are people saying about the industry? What are some recent blog posts or press covering the market or its major players?*
 
-	- Use Google's search tools to see most recent blog posts or press mentions over the last month. How often is the market covered? Who covers it, and what are they saying about the market and the companies in it?
+- Use Google's search tools to see most recent blog posts or press mentions over the last month. How often is the market covered? Who covers it, and what are they saying about the market and the companies in it?
 
 *Is it a growing market? What gaps exist that I can leverage, and how entrenched are the players in the market?*
 
-	- Here, look for industry reports and revenues of companies in the space. Also use [Crunchbase](http://www.crunchbase.com/) to see if other companies raised money at increasing valuations in the past 6 months. That's a strong indication that they're seeing some kind of growth.
+- Here, look for industry reports and revenues of companies in the space. Also use [Crunchbase](http://www.crunchbase.com/) to see if other companies raised money at increasing valuations in the past 6 months. That's a strong indication that they're seeing some kind of growth.
 
 *What do my potential customers care about?*
 
-	- Use [Delicious](http://delicious.com) to see what popular articles people have tagged as memorable. What do they care enough about to save? For example, if you are thinking of doing a web analytics startup, [take a look](https://delicious.com/search?p=kissmetrics.com) at some of Kissmetric's most popular posts to see what people are interested in and found valuable.
+- Use [Delicious](http://delicious.com) to see what popular articles people have tagged as memorable. What do they care enough about to save? For example, if you are thinking of doing a web analytics startup, [take a look](https://delicious.com/search?p=kissmetrics.com) at some of Kissmetric's most popular posts to see what people are interested in and found valuable.
 
 At this point, I also set up [Google Alerts](http://www.google.com/alerts) for certain key terms in a market. For example, with our hypothetical fire-sharing competitor, I'd create alerts for the top 3 competitors and a few key terms (e.g. "file sharing" + funding) I wanted to monitor.
 

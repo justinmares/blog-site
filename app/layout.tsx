@@ -12,7 +12,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     <html lang="en">
       <body className="min-h-screen bg-bg text-text antialiased">
         <header className="border-b border-border">
-          <nav className="mx-auto flex max-w-2xl items-center justify-between px-6 py-6">
+          <nav className="mx-auto flex max-w-3xl items-center justify-between px-6 py-6">
             <Link href="/" className="text-xl font-bold tracking-tight text-text hover:text-accent transition-colors">
               justin mares
             </Link>
@@ -22,9 +22,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </div>
           </nav>
         </header>
-        <main className="mx-auto max-w-2xl px-6 py-10">{children}</main>
+        <main className="mx-auto max-w-3xl px-6 py-10">{children}</main>
         <footer className="border-t border-border">
-          <div className="mx-auto max-w-2xl px-6 py-6 text-sm text-text-muted">
+          <div className="mx-auto max-w-3xl px-6 py-6 text-sm text-text-muted">
             &copy; {new Date().getFullYear()} Justin Mares
           </div>
         </footer>

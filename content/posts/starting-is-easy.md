@@ -3,14 +3,14 @@ For years now I have taken the advice "just get started!" to heart. I have begun
 ## What Failed
 Just to recap: over the past year I took the philosophy that it was best to start than to do nothing. So, start I did. Here are the end results of my starting:
 
-	- Began work on an ebook to help people win scholarships. After five pages and no interviews (due to one lame attempt), decided the project wasn't worth doing.
-	- Sent out several emails to help local businesses create a marketing presence online. After few responses and no clients (and 1.5 weeks of work), decided to move on to something else.
-	- Began an affiliate site for a basketball program. Three articles, two sales and $30 later, the site gathers dust and makes no money. I grew tired of writing articles and generating backlinks by submitting articles to directories.
-	- Created an affiliate site to promote poker books. Bought the domain, set up hosting, wrote one article, then got bored. No money, one article, and no future for that site.
-	- Started a blog where I talked about the college process and what went into my college decision. Two posts and one month later, I deleted it.
-	- Created another blog where I wrote short blurbs on marketing strategies I would use for different companies and businesses. It wasn't bad, but after one month and six posts, I deleted that also.
-	- Began learning C from Reddit.
-	- Began learning Ruby on Rails. Struggled through the first 200 pages of a tutorial book, and pretty much stopped. I still sometimes go back and learn a bit more, but that is rare.
+- Began work on an ebook to help people win scholarships. After five pages and no interviews (due to one lame attempt), decided the project wasn't worth doing.
+- Sent out several emails to help local businesses create a marketing presence online. After few responses and no clients (and 1.5 weeks of work), decided to move on to something else.
+- Began an affiliate site for a basketball program. Three articles, two sales and $30 later, the site gathers dust and makes no money. I grew tired of writing articles and generating backlinks by submitting articles to directories.
+- Created an affiliate site to promote poker books. Bought the domain, set up hosting, wrote one article, then got bored. No money, one article, and no future for that site.
+- Started a blog where I talked about the college process and what went into my college decision. Two posts and one month later, I deleted it.
+- Created another blog where I wrote short blurbs on marketing strategies I would use for different companies and businesses. It wasn't bad, but after one month and six posts, I deleted that also.
+- Began learning C from Reddit.
+- Began learning Ruby on Rails. Struggled through the first 200 pages of a tutorial book, and pretty much stopped. I still sometimes go back and learn a bit more, but that is rare.
 
 Wow. After all of that, I accomplished almost nothing. I learned a few things, but got nothing done that I wanted to accomplish. This happened because each time I would begin something new, I would be caught up in the rush of starting and dive into a project enthusiastically. After a few weeks, or when the work became less of a creative process, I would rationalize the failure and begin something else. This happened for an ENTIRE YEAR.
 ## What Worked

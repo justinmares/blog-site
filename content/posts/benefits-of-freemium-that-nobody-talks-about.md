@@ -4,11 +4,11 @@ No doubt, pricing is an incredibly nuanced and complex topic. I wrote a rather [
 
 I've read a lot about SaaS pricing, including some very convincing arguments against Freemium. They basically boil down to these points:
 
-	- Free-to-paid upgrade rates are incredibly low (true)
-	- Free customers are often your worst customers (also, often true)
-	- Free customers suck up support and engineering time while giving nothing back (true)
-	- You lose out on users that would have paid you but opted for the free plan instead (true, though hard to quantify)
-	- They cost you money if they come through any paid marketing channels (ads, affiliate, etc.)
+- Free-to-paid upgrade rates are incredibly low (true)
+- Free customers are often your worst customers (also, often true)
+- Free customers suck up support and engineering time while giving nothing back (true)
+- You lose out on users that would have paid you but opted for the free plan instead (true, though hard to quantify)
+- They cost you money if they come through any paid marketing channels (ads, affiliate, etc.)
 
 The prevailing thinking among software startups (led by people like Jason Cohen and Patrick McKenzie) is that extended free trials, or software trials with money-back guarantees are the best way to convert prospects to real, paying customers. For the most part, I agree.
 
