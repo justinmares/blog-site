@@ -5,15 +5,14 @@ export const dynamic = "force-dynamic";
 
 const projects = [
   {
-    name: "TrueMed",
+    name: "Truemed",
     url: "https://truemed.com",
-    description: "HSA/FSA payments for health products",
+    description: "Unlocking HSA/FSA for lifestyle interventions",
   },
   {
     name: "Kettle & Fire",
     url: "https://kettleandfire.com",
-    description: "Bone broth & shelf-stable soups",
-    note: "exited",
+    description: "Fixing the food system, starting with bone broth",
   },
 ];
 
@@ -21,10 +20,10 @@ export default function Home() {
   const recentPosts = getAllPosts().slice(0, 5);
 
   return (
-    <div className="space-y-20">
+    <div className="space-y-10">
       {/* Hero */}
-      <section className="pt-8">
-        <h1 className="font-serif text-4xl font-semibold tracking-tight leading-tight mb-4">
+      <section className="pt-4">
+        <h1 className="text-4xl font-semibold tracking-tight leading-tight mb-4" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif" }}>
           Justin Mares
         </h1>
         <p className="text-lg text-text-muted leading-relaxed max-w-xl">
@@ -49,9 +48,6 @@ export default function Home() {
                 <span className="font-serif text-lg font-medium text-text group-hover:text-accent-hover transition-colors">
                   {p.name}
                 </span>
-                {p.note && (
-                  <span className="text-xs text-text-muted">({p.note})</span>
-                )}
               </a>
               <p className="text-text-muted text-sm mt-0.5">{p.description}</p>
             </div>
