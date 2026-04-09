@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getAllPosts } from "@/lib/posts";
+import { getAllPostsAsync } from "@/lib/posts";
 
 export const dynamic = "force-dynamic";
 
@@ -16,8 +16,8 @@ const projects = [
   },
 ];
 
-export default function Home() {
-  const recentPosts = getAllPosts().slice(0, 5);
+export default async function Home() {
+  const recentPosts = (await getAllPostsAsync()).slice(0, 5);
 
   return (
     <div className="space-y-10">

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getAllPosts, getCategories } from "@/lib/posts";
+import { getAllPostsAsync, getCategoriesAsync } from "@/lib/posts";
 
 export const dynamic = "force-dynamic";
 
@@ -9,8 +9,8 @@ export default function Essays({ searchParams }: { searchParams: Promise<{ categ
 
 async function EssaysInner({ searchParamsPromise }: { searchParamsPromise: Promise<{ category?: string }> }) {
   const { category } = await searchParamsPromise;
-  const allPosts = getAllPosts();
-  const categories = getCategories();
+  const allPosts = await getAllPostsAsync();
+  const categories = await getCategoriesAsync();
   const posts = category ? allPosts.filter((p) => p.category === category) : allPosts;
 
   return (

@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getPost } from "@/lib/posts";
+import { getPostAsync } from "@/lib/posts";
 import { marked } from "marked";
 import { notFound } from "next/navigation";
 
@@ -7,7 +7,7 @@ export const dynamic = "force-dynamic";
 
 export default async function PostPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
-  const post = getPost(slug);
+  const post = await getPostAsync(slug);
   if (!post) notFound();
 
   const html = await marked(post.content);

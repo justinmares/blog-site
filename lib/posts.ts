@@ -62,3 +62,30 @@ export function getCategories(): string[] {
   const posts = getAllPosts();
   return [...new Set(posts.map((p) => p.category).filter(Boolean))];
 }
+
+// --- Async versions that use GitHub in production ---
+import { isGitHubConfigured, getPostsIndex, getPostContent } from "@/lib/github";
+
+export async function getAllPostsAsync(): Promise<Post[]> {
+  if (isGitHubConfigured()) {
+    return getPostsIndex();
+  }
+  return getAllPosts();
+}
+
+export async function getPostAsync(slug: string): Promise<(Post & { content: string }) | null> {
+  if (isGitHubConfigured()) {
+    const posts = await getPostsIndex();
+    const meta = posts.find((p) => p.slug === slug);
+    if (!meta) return null;
+    const content = await getPostContent(slug);
+    if (!content) return null;
+    return { ...meta, content };
+  }
+  return getPost(slug);
+}
+
+export async function getCategoriesAsync(): Promise<string[]> {
+  const posts = await getAllPostsAsync();
+  return [...new Set(posts.map((p) => p.category).filter(Boolean))];
+}
