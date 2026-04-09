@@ -1,31 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;0,6..72,700;1,6..72,400&family=Inter:wght@400;500;600&display=swap');
 @import "tailwindcss";
 
 @theme {
-  --color-bg: #0f172a;
-  --color-surface: #1e293b;
-  --color-surface-hover: #334155;
-  --color-text: #e2e8f0;
-  --color-text-muted: #94a3b8;
-  --color-accent: #f59e0b;
-  --color-accent-hover: #fbbf24;
-  --color-border: #334155;
+  --color-bg: #272220;
+  --color-surface: #332d2a;
+  --color-surface-hover: #443d38;
+  --color-text: #f2ede8;
+  --color-text-muted: #a09790;
+  --color-accent: #c4703c;
+  --color-accent-hover: #d4834e;
+  --color-border: #3d3632;
+  --font-serif: 'Newsreader', Georgia, serif;
+  --font-sans: 'Inter', system-ui, sans-serif;
 }
 
 body {
   background-color: var(--color-bg);
   color: var(--color-text);
+  font-family: var(--font-sans);
 }
 
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+}
+
+/* Prose styles for blog posts */
 .prose-blog {
   line-height: 1.8;
   font-size: 1.125rem;
+  font-family: var(--font-sans);
 }
-.prose-blog h1 { font-size: 2rem; font-weight: 700; margin: 2rem 0 1rem; color: var(--color-text); }
-.prose-blog h2 { font-size: 1.5rem; font-weight: 600; margin: 1.75rem 0 0.75rem; color: var(--color-text); }
-.prose-blog h3 { font-size: 1.25rem; font-weight: 600; margin: 1.5rem 0 0.5rem; color: var(--color-text); }
+.prose-blog h1 { font-family: var(--font-serif); font-size: 2rem; font-weight: 600; margin: 2rem 0 1rem; color: var(--color-text); }
+.prose-blog h2 { font-family: var(--font-serif); font-size: 1.5rem; font-weight: 600; margin: 1.75rem 0 0.75rem; color: var(--color-text); }
+.prose-blog h3 { font-family: var(--font-serif); font-size: 1.25rem; font-weight: 600; margin: 1.5rem 0 0.5rem; color: var(--color-text); }
 .prose-blog p { margin: 1rem 0; color: var(--color-text-muted); }
-.prose-blog a { color: var(--color-accent); text-decoration: underline; }
-.prose-blog a:hover { color: var(--color-accent-hover); }
+.prose-blog a { color: var(--color-accent-hover); text-decoration: underline; text-underline-offset: 2px; }
+.prose-blog a:hover { color: var(--color-accent); }
 .prose-blog ul { margin: 1rem 0; padding-left: 1.5rem; color: var(--color-text-muted); list-style-type: disc; }
 .prose-blog ol { margin: 1rem 0; padding-left: 1.5rem; color: var(--color-text-muted); list-style-type: decimal; }
 .prose-blog li { margin: 0.5rem 0; line-height: 1.7; }

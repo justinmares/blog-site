@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getPost, getAllPosts } from "@/lib/posts";
+import { getPost } from "@/lib/posts";
 import { marked } from "marked";
 import { notFound } from "next/navigation";
 
@@ -15,10 +15,10 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
   return (
     <article>
       <div className="mb-8">
-        <Link href="/" className="text-sm text-text-muted hover:text-accent transition-colors">&larr; Back</Link>
+        <Link href="/essays" className="text-sm text-text-muted hover:text-accent-hover transition-colors">&larr; All essays</Link>
       </div>
-      <header className="mb-8">
-        <h1 className="text-3xl font-bold tracking-tight mb-2">{post.title}</h1>
+      <header className="mb-10">
+        <h1 className="font-serif text-3xl font-semibold tracking-tight mb-3">{post.title}</h1>
         <div className="flex items-center gap-3 text-sm text-text-muted">
           <time>{new Date(post.date).toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" })}</time>
           {post.category && <span className="rounded bg-surface px-2 py-0.5 text-xs">{post.category}</span>}
