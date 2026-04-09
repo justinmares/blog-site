@@ -103,6 +103,35 @@ export async function deletePostFromGitHub(slug: string) {
   await putFile("data/posts.json", JSON.stringify(filtered, null, 2), `Remove from index: ${slug}`);
 }
 
+export async function triggerVercelDeploy() {
+  const vercelToken = process.env.VERCEL_TOKEN;
+  const projectId = process.env.VERCEL_PROJECT_ID;
+  if (!vercelToken || !projectId) return;
+
+  const deployRes = await fetch("https://api.vercel.com/v13/deployments", {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${vercelToken}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      name: "blog-site",
+      project: projectId,
+      target: "production",
+      gitSource: {
+        type: "github",
+        repo: REPO.split("/")[1],
+        org: REPO.split("/")[0],
+        ref: BRANCH,
+      },
+    }),
+  });
+  if (!deployRes.ok) {
+    // Non-critical — post is saved even if deploy fails
+    console.error("Deploy trigger failed:", await deployRes.text());
+  }
+}
+
 export function isGitHubConfigured(): boolean {
   return !!TOKEN && !!REPO;
 }

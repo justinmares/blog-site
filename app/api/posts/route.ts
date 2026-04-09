@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getAllPosts, savePost } from "@/lib/posts";
 import { isAuthenticated } from "@/lib/auth";
-import { isGitHubConfigured, savePostToGitHub, getPostsIndex } from "@/lib/github";
+import { isGitHubConfigured, savePostToGitHub, getPostsIndex, triggerVercelDeploy } from "@/lib/github";
 
 export async function GET() {
   if (isGitHubConfigured()) {
@@ -24,6 +24,7 @@ export async function POST(request: NextRequest) {
 
   if (isGitHubConfigured()) {
     await savePostToGitHub(post, content);
+    triggerVercelDeploy();
   } else {
     savePost(post, content);
   }

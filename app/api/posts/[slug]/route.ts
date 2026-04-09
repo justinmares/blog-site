@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getPost, savePost, deletePost } from "@/lib/posts";
 import { isAuthenticated } from "@/lib/auth";
-import { isGitHubConfigured, getPostsIndex, getPostContent, savePostToGitHub, deletePostFromGitHub } from "@/lib/github";
+import { isGitHubConfigured, getPostsIndex, getPostContent, savePostToGitHub, deletePostFromGitHub, triggerVercelDeploy } from "@/lib/github";
 
 export async function GET(_request: NextRequest, { params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
@@ -35,6 +35,7 @@ export async function PUT(request: NextRequest, { params }: { params: Promise<{ 
   if (isGitHubConfigured()) {
     if (slug !== oldSlug) await deletePostFromGitHub(oldSlug);
     await savePostToGitHub(post, content);
+    triggerVercelDeploy();
   } else {
     if (slug !== oldSlug) deletePost(oldSlug);
     savePost(post, content);
@@ -50,6 +51,7 @@ export async function DELETE(_request: NextRequest, { params }: { params: Promis
 
   if (isGitHubConfigured()) {
     await deletePostFromGitHub(slug);
+    triggerVercelDeploy();
   } else {
     deletePost(slug);
   }
