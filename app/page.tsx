@@ -108,12 +108,6 @@ export default function Home() {
           >
             Substack
           </a>
-          <a
-            href="mailto:justin@truemed.com"
-            className="text-text-muted hover:text-accent-hover transition-colors"
-          >
-            Email
-          </a>
         </div>
       </section>
     </div>
