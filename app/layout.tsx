@@ -19,7 +19,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <div className="flex items-center gap-6 text-sm text-text-muted">
               <Link href="/essays" className="hover:text-accent-hover transition-colors">essays</Link>
               <Link href="/about" className="hover:text-accent-hover transition-colors">about</Link>
-              <Link href="/admin" className="hover:text-accent-hover transition-colors">write</Link>
             </div>
           </nav>
         </header>
