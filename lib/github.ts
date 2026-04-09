@@ -104,8 +104,8 @@ export async function deletePostFromGitHub(slug: string) {
 }
 
 export async function triggerVercelDeploy() {
-  const vercelToken = process.env.VERCEL_TOKEN;
-  const projectId = process.env.VERCEL_PROJECT_ID;
+  const vercelToken = process.env.VERCEL_DEPLOY_TOKEN;
+  const projectId = process.env.VERCEL_DEPLOY_PROJECT_ID;
   if (!vercelToken || !projectId) return;
 
   const deployRes = await fetch("https://api.vercel.com/v13/deployments", {
