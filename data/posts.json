@@ -1,26 +1,5 @@
 [
   {
-    "slug": "why-i-started-this-blog",
-    "title": "Why I started this blog",
-    "date": "2026-03-29",
-    "category": "Personal",
-    "excerpt": "After years of writing in various places, I decided to build my own simple blog. Here's why."
-  },
-  {
-    "slug": "health-optimization-basics",
-    "title": "Health optimization basics",
-    "date": "2026-03-15",
-    "category": "Health",
-    "excerpt": "The fundamentals of health that most people overlook. Sleep, sunlight, and movement come first."
-  },
-  {
-    "slug": "what-makes-a-great-founder",
-    "title": "What makes a great founder",
-    "date": "2026-02-20",
-    "category": "Startups",
-    "excerpt": "After evaluating hundreds of startups, here are the patterns I've noticed in the best founders."
-  },
-  {
     "slug": "our-insane-approach-to-regulating-toxins",
     "title": "Our Insane Approach to Regulating Toxins",
     "date": "2024-12-15",
