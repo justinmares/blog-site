@@ -1,8 +1,13 @@
 import { NextRequest, NextResponse } from "next/server";
 import { getAllPosts, savePost } from "@/lib/posts";
 import { isAuthenticated } from "@/lib/auth";
+import { isGitHubConfigured, savePostToGitHub, getPostsIndex } from "@/lib/github";
 
 export async function GET() {
+  if (isGitHubConfigured()) {
+    const posts = await getPostsIndex();
+    return NextResponse.json(posts);
+  }
   return NextResponse.json(getAllPosts());
 }
 
@@ -15,6 +20,12 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({ error: "Missing fields" }, { status: 400 });
   }
   const excerpt = content.replace(/[#*`>\[\]]/g, "").slice(0, 160).trim();
-  savePost({ slug, title, date: date || new Date().toISOString().split("T")[0], category: category || "", excerpt }, content);
+  const post = { slug, title, date: date || new Date().toISOString().split("T")[0], category: category || "", excerpt };
+
+  if (isGitHubConfigured()) {
+    await savePostToGitHub(post, content);
+  } else {
+    savePost(post, content);
+  }
   return NextResponse.json({ ok: true });
 }
