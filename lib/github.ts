@@ -48,6 +48,18 @@ async function putFile(path: string, content: string, message: string) {
   return githubApi(`/contents/${path}`, "PUT", body);
 }
 
+// For binary files (images) — accepts raw base64 content directly
+export async function putBinaryFile(path: string, base64Content: string, message: string) {
+  const sha = await getFileSha(path);
+  const body: Record<string, unknown> = {
+    message,
+    content: base64Content,
+    branch: BRANCH,
+  };
+  if (sha) body.sha = sha;
+  return githubApi(`/contents/${path}`, "PUT", body);
+}
+
 async function deleteFile(path: string, message: string) {
   const sha = await getFileSha(path);
   if (!sha) return;
