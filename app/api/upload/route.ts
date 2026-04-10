@@ -36,14 +36,16 @@ export async function POST(request: NextRequest) {
   const base64 = buffer.toString("base64");
 
   if (isGitHubConfigured()) {
-    // Production: commit to GitHub repo
+    // Production: commit to GitHub repo and return raw GitHub URL (instantly available)
+    const repo = process.env.GITHUB_REPO || "justinmares/blog-site";
     await putBinaryFile(`public/${imagePath}`, base64, `Upload image: ${filename}`);
+    const rawUrl = `https://raw.githubusercontent.com/${repo}/master/public/${imagePath}`;
+    return NextResponse.json({ url: rawUrl });
   } else {
     // Dev: save to local public/images/
     const localPath = path.join(process.cwd(), "public", imagePath);
     fs.mkdirSync(path.dirname(localPath), { recursive: true });
     fs.writeFileSync(localPath, buffer);
+    return NextResponse.json({ url: `/${imagePath}` });
   }
-
-  return NextResponse.json({ url: `/${imagePath}` });
 }
