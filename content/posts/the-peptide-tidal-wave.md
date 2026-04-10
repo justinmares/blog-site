@@ -63,6 +63,8 @@ So Big Pharma does one of two things. They either ignore peptides entirely (see:
 
 Which brings us to pharma's biggest blockbuster of the last 50 years: GLP-1s!
 
+![serena.jpg](/images/1775853552584-serena.jpg)
+
 *Not a doctor, but I would not recommend injecting on GLP-1s into one's wenis.*
 
 Semaglutide - the active ingredient in Ozempic and Wegovy - is a slightly modified version of GLP-1, a hormone your intestines have been producing since birth. Novo Nordisk's scientists made some tweaks (technically, they swapped one amino acid and attached a fatty acid chain), and those changes + the injectable delivery mechanism to file for a patent.
