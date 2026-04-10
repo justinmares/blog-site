@@ -36,19 +36,12 @@ export async function POST(request: NextRequest) {
   const base64 = buffer.toString("base64");
 
   if (isGitHubConfigured()) {
-    // Production: commit to GitHub repo and return the download URL (instantly available)
-    const result = await putBinaryFile(`public/${imagePath}`, base64, `Upload image: ${filename}`);
-    // GitHub API returns download_url which uses blob SHA — works instantly, no caching issues
-    const downloadUrl = result?.content?.download_url;
-    if (downloadUrl) {
-      return NextResponse.json({ url: downloadUrl });
-    }
-    // Fallback: construct raw URL with commit SHA for instant availability
+    // Production: commit to GitHub repo, return raw URL (public repo, instantly available)
     const repo = process.env.GITHUB_REPO || "justinmares/blog-site";
-    const commitSha = result?.commit?.sha;
-    const rawUrl = commitSha
-      ? `https://raw.githubusercontent.com/${repo}/${commitSha}/public/${imagePath}`
-      : `https://raw.githubusercontent.com/${repo}/master/public/${imagePath}`;
+    const result = await putBinaryFile(`public/${imagePath}`, base64, `Upload image: ${filename}`);
+    // Use commit SHA in URL to bypass any CDN caching
+    const commitSha = result?.commit?.sha || "master";
+    const rawUrl = `https://raw.githubusercontent.com/${repo}/${commitSha}/public/${imagePath}`;
     return NextResponse.json({ url: rawUrl });
   } else {
     // Dev: save to local public/images/
