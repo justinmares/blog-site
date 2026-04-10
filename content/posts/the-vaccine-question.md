@@ -34,6 +34,8 @@ The result of this threat was the passage of the 1986 National Childhood Vaccine
 
 Since this act was passed, the vaccine schedule has exploded. If you are 41 or older, you have had fewer vaccines in your lifetime than the average 6-month-old today.
 
+![dea0e147-97e3-4c7e-b417-831bec6e9d49_1240x984.webp](https://raw.githubusercontent.com/justinmares/blog-site/master/public/images/1775854753617-dea0e147-97e3-4c7e-b417-831bec6e9d49_1240x984.webp)
+
 Now, I understand why this was considered a good idea! Suppose you believed that DPT and other vaccines were miracle drugs that severely injured or killed some small portion of the population (and - because these are childhood vaccination schedules - almost entirely children). In that case, I understand how a cost-benefit analysis could point towards vaccinating everyone. If your options are truly "nobody gets vaccinated, everyone gets DPT" or "everyone gets vaccinated, some small percentage of the population is adversely impacted", I understand how this act could make sense!
 
 Whatever the rationale, the passage of the 1986 act led to an explosion of new vaccines, and the vaccine schedule grew 5x in just 37 years.
