@@ -72,11 +72,15 @@ Vaccines are no different. Their purpose is to forever alter one's immune system
 
 In fact, we know that some vaccines, at least some of the time, cause injury. Reports of vaccine injuries — any negative health outcome caused by a vaccine — and vaccine-related deaths are made in the Vaccine Adverse Event Reporting System (VAERS), a passive surveillance system run jointly by the FDA and the CDC. Most reports are made by nurses, doctors, and other medical professionals, and submitting a fraudulent report is a felony. Tens of thousands of vaccine injuries are reported every year, even though few people are aware of VAERS (and submitting reports is time-consuming).
 
+![3e79fac7-3c91-4d3e-a1b1-4f1df6597656_1200x742.webp](https://raw.githubusercontent.com/justinmares/blog-site/e85cd05f170175a2383b56ed375b36d47b966ee1/public/images/1776440452752-3e79fac7-3c91-4d3e-a1b1-4f1df6597656_1200x742.webp)
+
 It'd be surprising if vaccines were the only medical intervention humanity has discovered that was completely safe, completely effective, and had zero side effects. Judging by the fact that prior vaccines have been withdrawn from the market (this is one list I've found) due to safety concerns, we certainly cannot say these interventions are always 100% safe and effective. Could the risk/reward of every vaccine be worthwhile? Absolutely! But to say they have no side effects or downsides is just wrong.
 
 There are also concerns about how vaccines are determined safe (or not).
 
-The gold standard pharmaceutical trial is a double-blinded randomized, controlled trial using an inert placebo. Unfortunately, no vaccine on the childhood schedule has completed such a trial. Typically, vaccines are tested against older vaccines. Those vaccines in turn were tested against even older vaccines, or they were never subjected to a controlled trial at all.
+The gold standard pharmaceutical trial is a double-blinded randomized, controlled trial using an inert placebo. Unfortunately, no vaccine on the childhood schedule has completed such a trial. Typically, vaccines are tested against older vaccines. Those vaccines in turn were tested against even older vaccines, or they were never subjected to a controlled trial at all:
+
+![c6a89e54-1c7a-46ee-a10d-acc0d179f4d3_1140x378.webp](https://raw.githubusercontent.com/justinmares/blog-site/356e5b29d58611f8957b7c212729a020c534cdd1/public/images/1776440480205-c6a89e54-1c7a-46ee-a10d-acc0d179f4d3_1140x378.webp)
 
 Obviously, the most that a trial of this kind can determine is whether or not a new vaccine is as safe as an older one. And given the fact that controlled trials are mostly not conducted, the definitive scientific evidence to say that these compounds "do not cause" specific diseases does not exist.
 
@@ -86,11 +90,17 @@ Given that the vaccine schedule has hugely increased since 1986, we should absol
 
 There is a fair bit of research pointing to vaccines administered in combination may come with increased risk. For example, this study on Florida's Medicaid database found there was a significant increase in adverse events associated with vaccines, and that the number of these diseases went up as more vaccines were administered.
 
+![0f5acf30-2fef-4c17-9d58-a7254b30f498_1600x890.webp](https://raw.githubusercontent.com/justinmares/blog-site/dc3475745d66c44162220ae3af10a29963e0b41c/public/images/1776440498573-0f5acf30-2fef-4c17-9d58-a7254b30f498_1600x890.webp)
+
 A similar study compared health outcomes between vaccinated and unvaccinated children, and found that vaccinated children had increased rates of asthma, infection, and gastrointestinal disorders.
+
+![bacb868c-ed45-4935-9572-4e4a4010a9a4_1456x781.webp](https://raw.githubusercontent.com/justinmares/blog-site/819f7b693cea733638a3aa3c10fe15eb44fdd4bd/public/images/1776440516120-bacb868c-ed45-4935-9572-4e4a4010a9a4_1456x781.webp)
 
 > Hooker BS, Miller NZ. Analysis of health outcomes in vaccinated and unvaccinated children: Developmental delays, asthma, ear infections and gastrointestinal disorders. SAGE Open Medicine. 2020;8. doi:10.1177/2050312120925344
 
 And a recent (citizen science) survey of 10,000 parents showed an association of vaccine shots with ADHD and autism diagnosis. The more shots given, the likelier a diagnosis of a developmental disorder.
+
+![bead8605-508f-417b-b414-57d733fefcb9_829x553.webp](https://raw.githubusercontent.com/justinmares/blog-site/66920d2eb4e4ee2594a07a888a8b43c7b63522fb/public/images/1776440533377-bead8605-508f-417b-b414-57d733fefcb9_829x553.webp)
 
 Other studies have shown a similar dose-dependent relationship between the number of vaccines administered and an increase in various chronic conditions (see this excellent overview for more). As Brad summarizes in that post:
 
@@ -103,6 +113,8 @@ Other studies have shown a similar dose-dependent relationship between the numbe
 - Lyons-Weiler, J. and Blaylock, R.L. (2022)
 - Dutch Study, "Diseases and Vaccines: NVKP Survey Results"
 - The Control Group: Pilot Survey of Unvaccinated Americans
+
+![673e4d32-6aab-4db5-b88d-230a4aff4415_1456x697.webp](https://raw.githubusercontent.com/justinmares/blog-site/1a9a0f76fb81eb856d6becb062b3148d64be673e/public/images/1776440554631-673e4d32-6aab-4db5-b88d-230a4aff4415_1456x697.webp)
 
 > The results are clear and have a high degree of corroboration across studies. Vaccinated children are much sicker than unvaccinated children. They have a higher incidence of chronic diseases like allergies, ADHD, asthma, autism, and frequent infections. Each of these findings has been replicated in at least three independent studies. Certain studies also found vaccinated children were more commonly inflicted with Eczema, Learning Disabilities, Neurodevelopmental Disorders, Pneumonia, Ear Infections, GI Disorders, Asthma, Developmental Delays, Fevers, Pink Eye, Breathing Issues, Eating Disorders, Respiratory Infections, Behavioral Issues, Anemia, Throat inflammation, Convulsions, Infections, Seizure, Hospitalization, Sleep Issues, and Speech Disorders (see collected data here).
 
@@ -129,6 +141,8 @@ Many vaccines operate under the same principle: stimulate the immune system with
 - **Phenol/Phenoxyethanol** (antifreeze, toxic)
 - **Polysorbate 80 & 20** (carcinogenic)
 
+![70da72c0-7aa5-4c3c-ba18-c5585c557aed_1456x915.webp](https://raw.githubusercontent.com/justinmares/blog-site/7f3e4cb4b91a1d203091539abcb5213cb75f93b9/public/images/1776440619547-70da72c0-7aa5-4c3c-ba18-c5585c557aed_1456x915.webp)
+
 These compounds are certainly not good when consumed, and are quite likely worse when simply injected (as the body has no way to clear some of these toxic compounds like it does through digestion).
 
 Unfortunately, this can be a big deal. Aluminum (for example) is more efficiently absorbed when injected into the body versus when eaten. When ingested, the body efficiently filters out aluminum in the GI tract and prevents its absorption, allowing only 0.1%-0.3% into the body. Vaccines given in the first six months of life (per the CDC schedule) contain 3,675 mcg of aluminum.
@@ -136,6 +150,8 @@ Unfortunately, this can be a big deal. Aluminum (for example) is more efficientl
 Aluminum serves no function in the body. It is neurotoxic, neurodegenerative, toxic to bone tissue, and may contribute to autoimmune disorders. In the 1990s, there were reports of babies dying and becoming developmentally impaired after receiving IVs contaminated with aluminum, which led to the FDA setting a limit on daily aluminum exposure.
 
 According to the FDA, they should be limited to 4-5 mcg/kg/day, though even these levels can cause toxicity. That is equivalent to a limit of 20 mcg for an 8lb baby, or 50 mcg for a 20lb baby. There is no aluminum-containing vaccine on the schedule which is below this limit.
+
+![86a64621-7807-47c8-9458-a8dddd8b63ee_1200x742.png](https://raw.githubusercontent.com/justinmares/blog-site/c9077aaaeca42da303f00be374a6d00d51cfac58/public/images/1776440638145-86a64621-7807-47c8-9458-a8dddd8b63ee_1200x742.png)
 
 Given the ample evidence of aluminum's toxicity, I was quite surprised to dig in and see just how much aluminum a baby would be exposed to by following the current CDC schedule.
 
