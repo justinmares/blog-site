@@ -1,6 +1,6 @@
 Look at this monkey. 
 
-[](https://rock929rocks.com/2019/07/09/a-spectacularly-obese-monkey-named-uncle-fatty-has-escaped-from-fat-camp-in-thailand/)
+![4ed333d8-8e7b-46a6-8876-e45acb1c6bfc_594x395.webp](https://raw.githubusercontent.com/justinmares/blog-site/fc7b4ddedbf696ae4e07a24add36e8b1eca6da8e/public/images/1776449639463-4ed333d8-8e7b-46a6-8876-e45acb1c6bfc_594x395.webp)
 
 A few things are apparent:
 
@@ -34,29 +34,29 @@ How bad is it?
 
 In 1990, zero states had obesity rates *above* 20%. As of 2018, zero states had obesity rates *below* 20%. 
 
-[](https://www.reddit.com/r/MapPorn/comments/ett1fw/percentage_of_obese_adults_by_state_1990_vs_2018/)
+![e84261d7-6086-412f-b298-2c8fdcc16a48_1024x576.webp](https://raw.githubusercontent.com/justinmares/blog-site/b34734a988c0613df62f6ad8d49064232c4df0df/public/images/1776449738833-e84261d7-6086-412f-b298-2c8fdcc16a48_1024x576.webp)
 
 This is an abrupt and historically anomalous change. Between 1890 and 1976, obesity rates went from ~3% to ~10%. The obesity rate in most developed countries was ~10% until 1980, when it took off[ (2](#footnote-2)).
 
 In 1890, Chauncey Morlan was the world’s fattest man, enough of an anomaly to be part of the circus. Today, Chauncey would hardly stand out at your average airport. 
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe4673a9a-2edb-46f9-8b51-db31af25e646_450x621.png)
+![e4673a9a-2edb-46f9-8b51-db31af25e646_450x621.webp](https://raw.githubusercontent.com/justinmares/blog-site/a8e4f8b19f4c089ed139a31629c801f47dccf86d/public/images/1776449765217-e4673a9a-2edb-46f9-8b51-db31af25e646_450x621.webp)
 
 The current health crisis goes beyond obesity. Rates of chronic conditions like heart disease, asthma, cancer, and diabetes have grown 700% since 1935. Today, 6 in 10 Americans have a chronic disease, and the numbers continue to grow. 
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3e8ee04-913a-426f-b269-1fca5cd72727_833x550.png)
+![f3e8ee04-913a-426f-b269-1fca5cd72727_833x550.webp](https://raw.githubusercontent.com/justinmares/blog-site/347b552541a7183d11afe5f14e71a7b4ae635226/public/images/1776449787359-f3e8ee04-913a-426f-b269-1fca5cd72727_833x550.webp)
 
 [*Source*](https://www.jeffnobbs.com/posts/what-causes-chronic-disease)
 
 For the first time in American history, our life expectancy is trending *down*, driven entirely by the chronic diseases that kill literally millions of Americans each year. 
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fed4efcb8-0bc8-4977-a88b-c0ed067a8ddc_1250x492.png)
+![ed4efcb8-0bc8-4977-a88b-c0ed067a8ddc_1250x492.webp](https://raw.githubusercontent.com/justinmares/blog-site/c0805b26ce9855ccd89bc50d1a0e09010b6ac31f/public/images/1776449812570-ed4efcb8-0bc8-4977-a88b-c0ed067a8ddc_1250x492.webp)
 
 We have the fattest, sickest population of Americans that has ever existed. Today, 50% of Americans have diabetes or prediabetes (and 25% of kids); 73% of Americans are obese or overweight, (and 45% of kids). 93% of Americans have at least one marker of metabolic dysfunction that signals future chronic disease ([3](#footnote-3)), and chronic illness is up 200%+ since the 70s. 
 
 All this is happening despite record levels of healthcare spending. The richer we get, the more we spend. The more we spend, the sicker we get. 
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F95a12ebd-f812-4cee-92db-96806776d01b_1600x1007.png)
+![95a12ebd-f812-4cee-92db-96806776d01b_1600x1007.webp](https://raw.githubusercontent.com/justinmares/blog-site/f557d83612eec59051192bfe586301c7acb322c2/public/images/1776449831878-95a12ebd-f812-4cee-92db-96806776d01b_1600x1007.webp)
 
 [*Source*](https://www.healthsystemtracker.org/chart-collection/u-s-spending-healthcare-changed-time/#Total%20national%20health%20expenditures,%20US%20$%20per%20capita,%201970-2022)
 
@@ -118,13 +118,13 @@ Have you ever wondered why Coca-Cola uses high-fructose corn syrup (HFCS) in Cok
 
 Since 1995, corn subsidies in the U.S. have totaled more than $116 billion: an average of over $4 billion per year. Soybeans and wheat subsidies aren’t far behind, at $48 and $45 billion each, since 1995 ([10](#footnote-10)). And (shocker) because these crops are so heavily subsidized, they’re also by far the most abundant.
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7fb2b85a-70bb-471a-99d6-d5d51eacba42_516x348.png)
+![7fb2b85a-70bb-471a-99d6-d5d51eacba42_516x348.webp](https://raw.githubusercontent.com/justinmares/blog-site/29a316992b32c2c0e8fd024fe7811f80583c3b86/public/images/1776449867841-7fb2b85a-70bb-471a-99d6-d5d51eacba42_516x348.webp)
 
 Farmers are incentivized to plant as many of these crops as they can, because they are guaranteed to make a profit. This profit guarantee means that farmers plant corn/soy/wheat in greater amounts than humans actually consume. In fact, less than 1% of all corn grown in the U.S. is the corn on the cob that’s eaten in its unprocessed form!
 
 Most of the corn grown in the US — that taxpayers subsidize! — is used for animal feed, food additives (“residual use” in the graph below) and alcohol (for fuel use).
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F859298b9-796d-4869-8fa2-6e447bfda937_474x316.png)
+![859298b9-796d-4869-8fa2-6e447bfda937_474x316.webp](https://raw.githubusercontent.com/justinmares/blog-site/985681a5adf0a4c826bdc9a51a5a84708ee0f2fd/public/images/1776449886151-859298b9-796d-4869-8fa2-6e447bfda937_474x316.webp)
 
 Because corn, soy, and wheat are subsidized *and *abundant, these crops are cheap. And because they’re cheap, they are in everything. 
 
@@ -132,11 +132,11 @@ Subsidies have artificially made corn cheaper than sugar and soybean oil cheaper
 
 I’ve talked before about [the negative impact of vegetable oils](https://twitter.com/jwmares/status/1329082510714671110?lang=en) on human health. Well, crop subsidies also play a role here. Before soybeans were so heavily subsidized, American consumption of soybean oil was negligible.
 
-[](https://www.jeffnobbs.com/posts/what-causes-chronic-disease)
+![5fb47b8d-d7d4-4a27-9eb6-73d88ced5ab2_833x514.webp](https://raw.githubusercontent.com/justinmares/blog-site/ea0408b6dd11da4e6e461f33fd1abec2b9f375fa/public/images/1776449915760-5fb47b8d-d7d4-4a27-9eb6-73d88ced5ab2_833x514.webp)
 
 Today, after $45 billion of crop subsidies, the average American gets 20% of their calories from toxic, highly processed soybean oils! Again, not because soybean oil is delicious. It’s because —- thanks to crop subsidies — it’s cheaper for Big Food to spend a bunch of money turning dry, definitely-not-oily soybeans into oil for human consumption. 
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6115f3a8-050b-4b75-9e78-b321878a7e4f_1010x948.png)
+![6115f3a8-050b-4b75-9e78-b321878a7e4f_1010x948.webp](https://raw.githubusercontent.com/justinmares/blog-site/f8bcb2a02a0cfc647dcfa18d204ab8226f17f2f0/public/images/1776449933152-6115f3a8-050b-4b75-9e78-b321878a7e4f_1010x948.webp)
 
 These subsidies also ensure that soybeans become animal feed, as about 70% of soybeans are used to feed chickens, pigs, and cows ([11)](#footnote-11). In their natural environments, these animals would never eat soybeans. Now, artificially cheap soybeans make their way into feed of all kinds: human and animal. 
 
@@ -152,7 +152,7 @@ In my opinion, these subsidies have directly led to the sickest, least healthy c
 
 These subsidies are uniquely American. That’s why these fake, highly processed ingredients are only present in American foods. Look at the difference between Heinz Ketchup in the US vs. the EU:
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e21624b-9aa3-4f83-8de1-5b8f39759b16_961x1200.png)
+![7e21624b-9aa3-4f83-8de1-5b8f39759b16_961x1200.webp](https://raw.githubusercontent.com/justinmares/blog-site/fcd28cdd111975119d8a4fb2b1204594dafc0919/public/images/1776449957782-7e21624b-9aa3-4f83-8de1-5b8f39759b16_961x1200.webp)
 
 *Research credit to *[*Jason Karp*](https://twitter.com/humankarp?lang=en)* and *[*HumanCo*](https://humanco.com/)
 
@@ -168,7 +168,7 @@ Big Food spends billions on “science” to convince people and policymakers th
 
 No, I’m not kidding. See how your favorite foods rank below (100 is the top score, 1 the worst). 
 
-[](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4c1bec54-ac95-43d2-acb1-3b2cf1ac9bd1_1456x1090.png)
+![4c1bec54-ac95-43d2-acb1-3b2cf1ac9bd1_1456x1090.webp](https://raw.githubusercontent.com/justinmares/blog-site/0a121fe80799d1c95877f40bdc3860fa434c9e00/public/images/1776449981601-4c1bec54-ac95-43d2-acb1-3b2cf1ac9bd1_1456x1090.webp)
 
 *Source - *[*Nina*](https://unsettledscience.substack.com/p/cheerios-a-health-food-says-leader)
 
@@ -240,7 +240,7 @@ The areas where health issues are most likely to arise are those where our curre
 
 Seed + vegetable oils are a great example. Today, seed oils make up nearly 20% of the average American’s caloric intake. Even 500 years ago, not only would these oils not have existed in the human diet, but they would have been *literally impossible to make. *
 
-[](https://www.facebook.com/MaxLugavere/photos/nature-doesnt-make-bad-fats-humans-doone-recommendation-i-make-in-my-book-genius/1802550793384672/)
+![94e84b84-3e86-4ce6-aecb-520cb513b947_800x800.webp](https://raw.githubusercontent.com/justinmares/blog-site/a54f0768fa4187058051b5e6adda398ceb0c33f3/public/images/1776450012172-94e84b84-3e86-4ce6-aecb-520cb513b947_800x800.webp)
 
 Therefore, we can imagine that when we introduce these novel oils to the American diet, well, there’s a good chance of disease. 
 
